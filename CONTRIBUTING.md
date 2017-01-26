@@ -39,7 +39,7 @@ the following list: http://people.apache.org/unlistedclas.html.
 
 Project committers will use this list to verify pull requests (PRs) come from contributors that have signed a CLA.
 
-We look forward to your contributions! 
+We look forward to your contributions!
 
 ## Raising issues
 
